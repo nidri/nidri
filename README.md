@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Ask me about [Pega PRPC](https://www.pega.com/products/pega-platform)
 - 📫 How to reach me: [@KrishnaNidri](https://twitter.com/KrishnaNidri)
+- Check my [bio](https://nidri.github.io) for more information.
 <!--
 **nidri/nidri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
