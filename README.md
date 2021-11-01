@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 - 🔭 I’m currently working on full stack project using [Pega](https://www.pega.com/products/pega-platform) technology.
 - 🌱 I’m currently learning JS frameworks and will soon start ML.
