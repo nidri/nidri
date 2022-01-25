@@ -1,12 +1,12 @@
 ### Hello world 👋
 
 - 🔭 I’m currently working on full stack project using [Pega](https://www.pega.com/products/pega-platform) technology.
-- 🌱 I’m currently learning JS frameworks and will soon start ML.
+- 🌱 I’m currently learning JS frameworks and exploring web3.
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Ask me about [Pega PRPC](https://www.pega.com/products/pega-platform)
 - 📫 How to reach me: [@KrishnaNidri](https://twitter.com/KrishnaNidri)
 - Checkout my [blob](https://blog.nidri.dev) for technical articles.
-- Check my [bio](https://nidri.github.io) for more information.
+- Check my [bio](https://nidri.dev) for more information.
 <!--
 **nidri/nidri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
